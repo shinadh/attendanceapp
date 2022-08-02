@@ -1,0 +1,3 @@
+
+rootProject.name = "face recognition based attendance"
+include ':app'
